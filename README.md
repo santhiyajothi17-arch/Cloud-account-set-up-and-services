@@ -103,6 +103,9 @@ After creating an AWS account, secure the root user and configure administrative
 
 ## Output
 
+<img width="1907" height="972" alt="Screenshot 2026-10-31 102800" src="https://github.com/user-attachments/assets/4d7753d8-9567-4442-9de5-c35d35a925df" />
 
 
 ## RESULT
+
+Thus, an AWS cloud account was created, secure administrative access was configured using AWS IAM Identity Center, and the various services available on the AWS platform were explored.
